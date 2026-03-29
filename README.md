@@ -1,13 +1,13 @@
 # Contoso-Retail-Sales-Analytics-Dashboard
 Uses PowerBI to analyze a large-scale retail dataset (~850K+ records) to uncover actionable insights.
 
-📊 Contoso Retail Sales Analytics Dashboard
+## Contoso Retail Sales Analytics Dashboard
 
-🚀 Project Overview
+### 1. Project Overview
 
 This project analyzes a large-scale retail dataset (~850K+ records) to uncover actionable insights into sales performance, profitability, and customer demand trends. The goal was to simulate a real-world business intelligence scenario and build an end-to-end analytics solution using Power BI.
 
-📁 Dataset Description
+### 2. Dataset Description
 
 Fact Tables:
 
@@ -17,13 +17,14 @@ Source Dataset: ~859,506 rows with 17 columns
 Time Period: 2007–2009
 Data Model: Star Schema (Fact + Dimension tables)
 
-🛠️ Tools & Technologies
+### 3. Tools & Technologies
 Power BI (Data Modeling + Visualization)
 Excel (Data Cleaning & Structuring)
 DAX (Measures & KPIs)
 Data Modeling (Star Schema Design)
+File Format – .pbix for development and .png for dashboard previews.
 
-🔍 Key Features of Dashboard
+### 4. Key Features of Dashboard
 
 KPI cards: Sales, Profit, Discounts, Returns, Cost
 Time-based analysis: Monthly, Quarterly, YoY trends
@@ -31,14 +32,14 @@ Product-level performance tracking (Brand & Category)
 Regional insights (Asia, Europe, North America)
 Dynamic slicers: Channel, Geography, Product hierarchy
 
-📈 Key Insights
+### 5. Key Insights
 
 Net profit reached ₹1.78B, driven by high-performing product categories
 Significant seasonal fluctuations observed in monthly sales trends
 Certain regions showed high sales but low profitability, indicating cost inefficiencies
 Discounts and returns had a measurable impact on net margins
 
-🧠 Business Impact
+### 6. Business Impact
 
 This dashboard enables stakeholders to:
 
@@ -47,14 +48,14 @@ Optimize pricing and discount strategies
 Monitor profitability trends over time
 Make data-driven inventory and marketing decisions
 
-📌 Learning Outcomes
+### 7. Learning Outcomes
 
 Handling large datasets efficiently in Power BI
 Building scalable data models
 Writing advanced DAX calculations
 Translating raw data into business insights
 
-Snapshot of the Dashboard
+### 8. Snapshot of the Dashboard
 
 See what the dashboard looks like
 ![Dashboard Preview](https://github.com/aksp08/Contoso-Retail-Sales-Analytics-Dashboard/blob/main/Dashboard.png)
