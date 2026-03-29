@@ -1,7 +1,5 @@
 # Contoso-Retail-Sales-Analytics-Dashboard
-Uses PowerBI to analyze a large-scale retail dataset (~850K+ records) to uncover actionable insights.
-
-## Contoso Retail Sales Analytics Dashboard
+Used Power BI to analyze a large-scale retail dataset (~850K+ records) to uncover actionable insights.
 
 ### 1. Project Overview
 
@@ -11,49 +9,49 @@ This project analyzes a large-scale retail dataset (~850K+ records) to uncover a
 
 Fact Tables:
 
-Sales Transactions (~379K rows/year)
-Sales Quota (~272K rows/year)
-Source Dataset: ~859,506 rows with 17 columns
-Time Period: 2007–2009
-Data Model: Star Schema (Fact + Dimension tables)
+* Sales Transactions (~379K rows/year).<br>
+* Sales Quota (~272K rows/year).<br>
+* Source Dataset: ~859,506 rows with 17 columns</br>
+* Time Period: 2007–2009</br>
+* Data Model: Star Schema (Fact + Dimension tables)</br>
 
 ### 3. Tools & Technologies
-Power BI (Data Modeling + Visualization)
-Excel (Data Cleaning & Structuring)
-DAX (Measures & KPIs)
-Data Modeling (Star Schema Design)
-File Format – .pbix for development and .png for dashboard previews.
+- Power BI (Data Modeling + Visualization)<br>
+- Excel (Data Cleaning & Structuring)<br>
+- DAX (Measures & KPIs)<br>
+- Data Modeling (Star Schema Design)<br>
+- File Format – .pbix for development and .png for dashboard previews<br>
 
 ### 4. Key Features of Dashboard
 
-KPI cards: Sales, Profit, Discounts, Returns, Cost
-Time-based analysis: Monthly, Quarterly, YoY trends
-Product-level performance tracking (Brand & Category)
-Regional insights (Asia, Europe, North America)
-Dynamic slicers: Channel, Geography, Product hierarchy
+- KPI cards: Sales, Profit, Discounts, Returns, Cost
+- Time-based analysis: Monthly, Quarterly, YoY trends
+- Product-level performance tracking (Brand & Category)
+- Regional insights (Asia, Europe, North America)
+- Dynamic slicers: Channel, Geography, Product hierarchy
 
 ### 5. Key Insights
 
-Net profit reached ₹1.78B, driven by high-performing product categories
-Significant seasonal fluctuations observed in monthly sales trends
-Certain regions showed high sales but low profitability, indicating cost inefficiencies
-Discounts and returns had a measurable impact on net margins
+* Net profit reached ₹1.78B, driven by high-performing product categories
+* Significant seasonal fluctuations observed in monthly sales trends
+* Certain regions showed high sales but low profitability, indicating cost inefficiencies
+* Discounts and returns had a measurable impact on net margins
 
 ### 6. Business Impact
 
 This dashboard enables stakeholders to:
 
-Identify top-performing products and regions
-Optimize pricing and discount strategies
-Monitor profitability trends over time
-Make data-driven inventory and marketing decisions
+- Identify top-performing products and regions
+- Optimize pricing and discount strategies
+- Monitor profitability trends over time
+- Make data-driven inventory and marketing decisions
 
 ### 7. Learning Outcomes
 
-Handling large datasets efficiently in Power BI
-Building scalable data models
-Writing advanced DAX calculations
-Translating raw data into business insights
+- Handling large datasets efficiently in Power BI
+- Building scalable data models
+- Writing advanced DAX calculations
+- Translating raw data into business insights
 
 ### 8. Snapshot of the Dashboard
 
